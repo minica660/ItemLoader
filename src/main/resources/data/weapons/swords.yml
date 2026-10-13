@@ -1,0 +1,29 @@
+# サンプル剣1
+sample_sword1:
+  material: DIAMOND_SWORD
+  amount: 1
+  name: "§e§lサンプル剣1"
+  lore:
+    - ""
+    - "サンプルのためのItemLoaderプラグイン剣です"
+    - ""
+  enchants:
+    - SHARPNESS:5
+    - UNBREAKING:3
+    - minecraft:fire_aspect:2
+  durability:
+    unbreakable: true   # 不可壊
+
+  model:
+    custom-model-data: 12345
+    item-model: "custom_items:weapons/sample_sword"
+
+# サンプル剣2
+sample_sword2:
+  material: IRON_SWORD
+  amount: 1
+  name: "§e§lサンプル剣2"
+  lore:
+    - ""
+    - "サンプルのための剣です"
+    - ""

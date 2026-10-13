@@ -1,0 +1,3 @@
+# 最低限の必須データです
+sample_simple_stone:  # 識別ID
+  material: STONE     # 材料(Material)

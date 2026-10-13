@@ -1,0 +1,14 @@
+name: ItemLoader
+version: '${version}'
+
+main: MiniCash.itemLoader.ItemLoaderAPI
+api-version: '1.21.11'
+load: POSTWORLD
+author: MiniCash
+description: ファイルからItemStackに変換するプラグインです
+
+
+permissions:
+  itemloader.commands.itemloader:
+    description: ItemLoaderプラグインのメインコマンド
+    default: op
