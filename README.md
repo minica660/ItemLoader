@@ -11,7 +11,7 @@ yamlファイルで書いたアイテムの設定からItemStack変換させる�
 
 **配置例:**
 ```text
-plugins/ItemLoaderAPI/
+plugins/ItemLoader/
   └── data/
       ├── weapons/                  # 武器カテゴリ
       │     └── swords.yml          # 剣の設定ファイル
