@@ -1,0 +1,2 @@
+# ItemLoader
+yamlファイルで書いたアイテムの設定からItemStack変換させるプラグイン
